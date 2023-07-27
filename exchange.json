@@ -1,1 +1,1 @@
-{"dependencies":[],"name":"flm-Order","main":"order.raml"}
+{"dependencies":[{"groupId":"68ef9520-24e9-4cf2-b2f5-620025690913","assetId":"https-enforcement","version":"1.1.1","scope":"validation"}],"name":"flm-Order","main":"order.raml"}
