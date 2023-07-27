@@ -1,1 +1,1 @@
-{"dependencies":[{"groupId":"68ef9520-24e9-4cf2-b2f5-620025690913","assetId":"https-enforcement","version":"1.1.1","scope":"validation"}],"name":"flm-Orders","main":"order.raml","descriptorVersion":"1.0.0"}
+{"dependencies":[{"groupId":"68ef9520-24e9-4cf2-b2f5-620025690913","assetId":"https-enforcement","version":"1.1.1","scope":"validation"}],"name":"Orders","main":"order.raml","assetId":"flm-orders", "descriptorVersion":"1.0.0","tags":[flm]}
